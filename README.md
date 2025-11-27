@@ -248,7 +248,7 @@ Este proyecto está bajo una **Licencia de Código Fuente Visible (Source Availa
 
 ### 💼 Uso Comercial
 
-Para solicitudes de licencias comerciales o permisos especiales, contacta a: **contacto@apafacil.cl**
+Para solicitudes de licencias comerciales o permisos especiales, contacta a: **gianlucabernasconi@protonmail.com**
 
 Ver el archivo `LICENSE` para los términos completos y condiciones de uso.
 
