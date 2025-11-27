@@ -1,0 +1,191 @@
+LICENCIA DE CÓDIGO FUENTE VISIBLE (SOURCE AVAILABLE LICENSE)
+Copyright (c) 2025 Gianluca Bernasconi. Todos los derechos reservados.
+
+================================================================================
+
+PREÁMBULO
+
+Este software se proporciona con el código fuente visible públicamente con 
+fines educativos y de transparencia. Sin embargo, esto NO constituye una 
+licencia de código abierto (Open Source).
+
+================================================================================
+
+TÉRMINOS Y CONDICIONES
+
+1. DEFINICIONES
+
+   1.1. "Software" se refiere a APA Fácil, incluyendo todo el código fuente,
+        documentación, diseños y materiales relacionados.
+
+   1.2. "Autor" se refiere a Gianluca Bernasconi, el creador y propietario 
+        exclusivo del Software.
+
+   1.3. "Uso Personal" se refiere al uso del Software para fines no comerciales,
+        educativos o de aprendizaje personal.
+
+2. PERMISOS OTORGADOS
+
+   Se te permite:
+
+   ✅ Ver y estudiar el código fuente
+   ✅ Usar la aplicación web en https://apafacil.cl
+   ✅ Reportar bugs y sugerir mejoras
+   ✅ Hacer fork del repositorio para estudio personal
+   ✅ Aprender de las técnicas y métodos implementados
+
+3. RESTRICCIONES
+
+   NO se permite:
+
+   ❌ Copiar el código o partes sustanciales del mismo para uso en otros proyectos
+   ❌ Usar el código con fines comerciales o lucrativos
+   ❌ Redistribuir el código o trabajos derivados
+   ❌ Publicar o hacer pasar el código como propio
+   ❌ Crear servicios competidores basados en este código
+   ❌ Eliminar o modificar los avisos de copyright y atribución
+   ❌ Sublicenciar, vender, alquilar o transferir el Software
+
+4. ATRIBUCIÓN
+
+   4.1. Todos los avisos de copyright, marcas comerciales y atribuciones deben
+        permanecer intactos en cualquier copia o fork del código.
+
+   4.2. Cualquier referencia al Software debe incluir atribución clara al Autor
+        original: "Creado por Gianluca Bernasconi - https://apafacil.cl"
+
+5. USO COMERCIAL
+
+   5.1. Cualquier uso comercial del Software requiere autorización escrita 
+        explícita del Autor.
+
+   5.2. "Uso comercial" incluye, pero no se limita a:
+        - Vender el Software o servicios basados en él
+        - Usar el Software en un entorno de producción comercial
+        - Integrar el Software en productos comerciales
+        - Ofrecer el Software como servicio (SaaS)
+        - Generar ingresos directos o indirectos mediante el Software
+
+   5.3. Para solicitar una licencia comercial, contacta: contacto@apafacil.cl
+
+6. CONTRIBUCIONES
+
+   6.1. Las contribuciones al proyecto son bienvenidas mediante Pull Requests.
+
+   6.2. Al enviar una contribución, otorgas al Autor una licencia perpetua,
+        mundial, no exclusiva, transferible, libre de regalías e irrevocable
+        para usar, modificar y distribuir tu contribución.
+
+   6.3. Garantizas que tienes el derecho de otorgar esta licencia y que tu
+        contribución no infringe derechos de terceros.
+
+7. TRABAJOS DERIVADOS
+
+   7.1. NO se permite crear trabajos derivados del Software sin autorización
+        escrita del Autor.
+
+   7.2. "Trabajos derivados" incluye cualquier modificación, adaptación,
+        traducción o extensión del Software.
+
+   7.3. Los forks para estudio personal NO constituyen trabajos derivados
+        siempre que no se redistribuyan o usen comercialmente.
+
+8. PROPIEDAD INTELECTUAL
+
+   8.1. El Autor retiene todos los derechos de propiedad intelectual sobre
+        el Software.
+
+   8.2. Esta licencia NO transfiere ningún derecho de propiedad.
+
+   8.3. Todos los derechos no expresamente otorgados están reservados.
+
+9. GARANTÍA Y RESPONSABILIDAD
+
+   9.1. EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍAS DE NINGÚN TIPO,
+        EXPRESAS O IMPLÍCITAS, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE
+        COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN.
+
+   9.2. EN NINGÚN CASO EL AUTOR SERÁ RESPONSABLE POR RECLAMACIONES, DAÑOS U
+        OTRAS RESPONSABILIDADES, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O
+        DE OTRO MODO, DERIVADAS DE, FUERA DE O EN CONEXIÓN CON EL SOFTWARE O
+        EL USO U OTROS TRATOS EN EL SOFTWARE.
+
+10. TERMINACIÓN
+
+    10.1. Esta licencia es efectiva hasta que sea terminada.
+
+    10.2. Tus derechos bajo esta licencia terminarán automáticamente sin aviso
+          si incumples cualquiera de estos términos.
+
+    10.3. Al terminar, debes cesar todo uso del Software y destruir todas las
+          copias en tu posesión.
+
+11. VIOLACIONES
+
+    11.1. Las violaciones de esta licencia pueden resultar en:
+          - Terminación inmediata de todos los derechos otorgados
+          - Acciones legales civiles y/o penales
+          - Reclamación de daños y perjuicios
+          - Órdenes judiciales para cesar el uso no autorizado
+
+12. MODIFICACIONES DE LA LICENCIA
+
+    12.1. El Autor se reserva el derecho de cambiar los términos de esta
+          licencia en cualquier momento.
+
+    12.2. Los cambios se aplicarán a las versiones futuras del Software.
+
+    12.3. El uso continuado del Software después de cambios en la licencia
+          constituye aceptación de los nuevos términos.
+
+13. LEY APLICABLE
+
+    13.1. Esta licencia se regirá por las leyes de Chile.
+
+    13.2. Cualquier disputa se resolverá en los tribunales de Chile.
+
+14. DISPOSICIONES GENERALES
+
+    14.1. Si alguna disposición de esta licencia es inválida o inaplicable,
+          las disposiciones restantes permanecerán en pleno vigor.
+
+    14.2. Esta licencia constituye el acuerdo completo entre las partes.
+
+    14.3. No se considerará que el Autor ha renunciado a ningún derecho por
+          no hacer cumplir alguna disposición de esta licencia.
+
+================================================================================
+
+RESUMEN EN LENGUAJE SIMPLE
+
+✅ PUEDES:
+   - Ver y estudiar el código
+   - Usar la aplicación web
+   - Aprender de las técnicas
+   - Reportar problemas
+   - Sugerir mejoras
+
+❌ NO PUEDES:
+   - Copiar el código para tus proyectos
+   - Usarlo comercialmente
+   - Hacerlo pasar como tuyo
+   - Crear servicios similares con este código
+   - Redistribuir el código
+
+💼 PARA USO COMERCIAL:
+   Contacta a: gianlucabernasconi@protonmail.com
+
+================================================================================
+
+AL ACCEDER, VER O USAR ESTE SOFTWARE, ACEPTAS ESTAR VINCULADO POR ESTOS 
+TÉRMINOS Y CONDICIONES.
+
+SI NO ESTÁS DE ACUERDO, NO DEBES ACCEDER, VER O USAR EL SOFTWARE.
+
+================================================================================
+
+Copyright (c) 2025 Gianluca Bernasconi
+Todos los derechos reservados.
+
+Para más información: https://apafacil.cl
+Contacto: gianlucabernasconi@protonmail.com

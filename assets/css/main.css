@@ -1,0 +1,52 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&display=swap');
+
+@layer base {
+  body {
+    @apply font-sans bg-gray-50 text-gray-900 dark:bg-apa-black dark:text-gray-100;
+  }
+
+  h1 {
+    @apply text-4xl md:text-5xl font-bold bg-gradient-to-r from-apa-teal to-cyan-500 bg-clip-text text-transparent;
+  }
+
+  h2 {
+    @apply text-2xl md:text-3xl font-bold text-gray-900 dark:text-gray-100;
+  }
+}
+
+@layer components {
+
+  /* Result Container */
+  .result-container {
+    @apply mt-8 p-6 bg-white dark:bg-apa-dark border-l-4 border-apa-teal rounded-lg font-serif text-gray-900 dark:text-gray-100 leading-relaxed shadow-lg;
+    animation: slideIn 0.25s ease-out;
+  }
+
+  .form-input {
+    @apply w-full px-4 py-3 text-base bg-white dark:bg-apa-dark text-gray-900 dark:text-gray-100 border-2 border-gray-300 dark:border-apa-teal/50 rounded-lg focus:border-apa-teal dark:focus:border-apa-teal focus:ring-4 focus:ring-apa-teal/20 dark:focus:ring-apa-teal/20 transition-all duration-200 outline-none;
+  }
+
+  .btn-primary {
+    @apply px-8 py-3 bg-gradient-to-r from-apa-teal to-cyan-600 hover:from-apa-teal hover:to-cyan-700 text-white font-semibold rounded-lg shadow-md hover:shadow-xl transform hover:-translate-y-0.5 transition-all duration-200;
+  }
+
+  .btn-secondary {
+    @apply px-8 py-3 bg-white dark:bg-apa-dark text-gray-900 dark:text-gray-100 border-2 border-gray-300 dark:border-apa-teal/50 hover:border-apa-teal dark:hover:border-apa-teal font-semibold rounded-lg shadow-md hover:shadow-lg transform hover:-translate-y-0.5 transition-all duration-200;
+  }
+
+  @keyframes slideIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
