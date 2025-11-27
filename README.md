@@ -265,35 +265,6 @@ Ver el archivo `LICENSE` para los términos completos y condiciones de uso.
 
 ---
 
-## 🙏 Agradecimientos
-
-- [American Psychological Association](https://apastyle.apa.org/) por las guías de formato APA
-- Comunidad de Nuxt.js y Vue.js
-- Todos los usuarios que utilizan y mejoran esta herramienta
-
----
-
-## 📞 Soporte
-
-Si encuentras algún problema o tienes sugerencias:
-
-- 🐛 [Reportar un bug](https://github.com/tuusuario/apafacil/issues)
-- 💡 [Solicitar una característica](https://github.com/tuusuario/apafacil/issues)
-- 📧 Contacto: contacto@apafacil.cl
-
----
-
-## 📊 Roadmap
-
-- [ ] Exportar referencias a formato BibTeX
-- [ ] Guardar referencias favoritas (localStorage)
-- [ ] Modo de exportación múltiple
-- [ ] Soporte para más formatos de citación (MLA, Chicago)
-- [ ] API REST para integración con otras aplicaciones
-- [ ] Extensión de navegador
-
----
-
 <div align="center">
 
 **⭐ Si este proyecto te fue útil, considera darle una estrella en GitHub ⭐**
